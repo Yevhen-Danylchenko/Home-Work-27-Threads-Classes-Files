@@ -14,3 +14,6 @@ AvtoMoto : Alexandr Dan : +380987654321 : Lviv, Ukraine
 HimicTechnologycs : Vlad Dan : +380669740567 : Odesa, Ukraine
 MedicalTechnologycs : Georgiy Romanov : +380673451287 : Kharkiv, Ukraine
 MyRoboticsCompany : Yevhen Dan : +380123456789 : Kyiv, Ukraine
+MedicalTechnologycs : Georgiy Romanov : +380673451287 : Kharkiv, Ukraine
+HimicTechnologycs : Vlad Dan : +380669740567 : Odesa, Ukraine
+MyRoboticsCompany : Yevhen Dan : +380123456789 : Kyiv, Ukraine

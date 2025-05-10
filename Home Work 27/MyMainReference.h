@@ -1,6 +1,6 @@
 // Created by Yevhen Danylchenko on 10.05.2025.
 // Threads and Mutexes and Synchronization and Files
-// Classes and Objects
+// Classes and Objects and Namespaces
 
 #pragma once
 
@@ -16,6 +16,7 @@
 
 
 void MyMainReference() {
+	using namespace MyNamespace;
 	
 	std::locale::global(std::locale("uk_UA.UTF-8"));
 	std::wcout.imbue(std::locale());
